@@ -1,0 +1,9 @@
+.view {
+    display: none;
+}
+
+[class^="col-"] {
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    margin: 1px;
+}
